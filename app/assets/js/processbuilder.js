@@ -871,7 +871,6 @@ class ProcessBuilder {
         let libs = []
         for(let sm of mdl.getSubModules()){
             if(sm.getType() === DistroManager.Types.Library){
-
                 if(sm.getClasspath()) {
                     libs.push(sm.getArtifact().getPath())
                 }
