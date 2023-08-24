@@ -8,31 +8,31 @@
                 "invalidValue": "* Valeur Invalide",
                 "requiredValue": "* Requis",
                 "userMigrated": {
-                    "title": "Erreur Pendant La Connexion:<br>Invalid Credentials",
-                    "desc": "You've attempted to login with a migrated account. Try again using the account email as the username."
+                    "title": "Erreur Pendant La Connexion:<br>Compte Invalide",
+                    "desc": "Vous avez essayé de vous connecter avec un compte migrés. Merci d'utilisé la connexion avec Microsoft"
                 },
                 "invalidCredentials": {
-                    "title": "Erreur Pendant La Connexion:<br>Invalid Credentials",
-                    "desc": "The email or password you've entered is incorrect. Please try again."
+                    "title": "Erreur Pendant La Connexion:<br>Identifiant invalide",
+                    "desc": "L'email ou le mot de passe est incorrect. Merci de réessayer."
                 },
                 "rateLimit": {
-                    "title": "Erreur Pendant La Connexion:<br>Too Many Attempts",
-                    "desc": "There have been too many login attempts with this account recently. Please try again later."
+                    "title": "Erreur Pendant La Connexion:<br>Trop de tentative",
+                    "desc": "Vous avez essayé de vous connecter trop de fois avec se compte récemment. Merci de réessayer plus tard."
                 },
                 "noInternet": {
-                    "title": "Erreur Pendant La Connexion:<br>No Internet Connection",
-                    "desc": "You must be connected to the internet in order to login. Please connect and try again."
+                    "title": "Erreur Pendant La Connexion:<br>Pas de connexion internet",
+                    "desc": "Vous devez d'abord vous connecter à internet. Merci de vous connecter puis réessayer."
                 },
                 "authDown": {
-                    "title": "Erreur Pendant La Connexion:<br>Authentication Server Offline",
-                    "desc": "Mojang's authentication server is currently offline or unreachable. Please wait a bit and try again. You can check the status of the server on <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
+                    "title": "Erreur Pendant La Connexion:<br>Serveur d'authentification hors-ligne",
+                    "desc": "Impossible de contacter le serveur d'authentification de Mojang. Merci de réessayer plus tard. Vous pouvez vérifier le statut des serveurs sur le <a href=\"https://help.mojang.com/\">Portail d'aide de Mojang</a>."
                 },
                 "notPaid": {
-                    "title": "Erreur Pendant La Connexion:<br>Game Not Purchased",
-                    "desc": "The account you are trying to login with has not purchased a copy of Minecraft.<br>You may purchase a copy on <a href=\"https://minecraft.net/\">Minecraft.net</a>"
+                    "title": "Erreur Pendant La Connexion:<br>Jeu non acheté",
+                    "desc": "Le compte avec le quel vous essayez de vous connecter ne possède pas de copie officiel du jeu.<br>Vous devez acheter une copie sur <a href=\"https://minecraft.net/\">Minecraft.net</a>"
                 },
                 "unknown": {
-                    "title": "Erreur Pendant La Connexion:<br>Unknown Error"
+                    "title": "Erreur Pendant La Connexion:<br>Erreur inconnue"
                 }
             },
             "login": "LOGIN",
