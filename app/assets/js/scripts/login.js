@@ -221,8 +221,8 @@ loginButton.addEventListener('click', () => {
             // Uh oh.
             msftLoginLogger.error('Unhandled error during login.', displayableError)
             actualDisplayableError = {
-                title: 'Unknown Error During Login',
-                desc: 'An unknown error has occurred. Please see the console for details.'
+                title: 'Une erreur est survenu durant la connexion',
+                desc: 'Merci de bien vouloir regarder la console pour plus de détails.'
             }
         }
 
